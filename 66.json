@@ -3,7 +3,7 @@
 // ⇩⇩ 壁纸 ⇩⇩                                                                                                                  
 "wallpaper": "https://gitee.com/tangsan99999/Public/raw/main/wallpapertip_hd-stock-wallpapers_143866.jpg",          
 // ⇩⇩ jar包 ⇩⇩                                                                                                                  
-"spider": "http://www.8848floor.com/zhongyang/bd/jar/fan.jar",                                     
+"spider": "http://bd/jar/fan.jar",                                     
 
 // ⇩⇩ 爬虫 ⇩⇩                                                                                                                  
 "sites": [
