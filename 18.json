@@ -1,7 +1,7 @@
 {
  "spider":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fm.20231029-2232.jar",
   "sites":[
-  {
+ {
       "key": "(18+)S猫资源",
       "name": "(18+)S猫资源",
       "type": 0,
@@ -118,7 +118,6 @@
       "playUrl": "",
       "categories": []
     },
-   
 {"key": "timizy","name": "甜蜜资源 ","type": 1,"api": "https://timizy10.cc/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "奥斯卡资源网","name": "奥斯卡资源网","type": 1,"api": "https://aosikazy.com/api.php/provide/vod/"},
     {
