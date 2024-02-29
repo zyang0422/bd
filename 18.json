@@ -1,5 +1,5 @@
 {
- "spider":"https://ghproxy.net/https://raw.githubusercontent.com/zyang0422/bd/main/pg.jar",
+ "spider":"https://raw.githubusercontent.com/zyang0422/bd/main/pg.jar",
   "sites":[
  {
       "key": "(18+)S猫资源",
@@ -10,7 +10,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-   {"key":"Taohuazu","name":"SP┃桃花族","type":3,"api":"csp_Taohuazu","playerType":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
+   {"key":"Taohuazu","name":"SP┃桃花族","type":3,"api":"csp_Taohuazu","playerType":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/zyang0422/bd/main/pg.jar"},
     {
       "key": "csp_xBPQ_新香蕉中文字幕",
       "name": "新香蕉中文字幕",
