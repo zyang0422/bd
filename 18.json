@@ -1,5 +1,5 @@
 {
- "spider":"https://raw.githubusercontent.com/zyang0422/bd/main/pg.jar",
+ "spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zyang0422/bd/main/pg.jar",
   "sites":[
  {
       "key": "(18+)S猫资源",
@@ -18,23 +18,13 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "http://akun.work.gd/upload/jar/Yoursmile2.jar",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zyang0422/bd/main/XBPQ.jar",
             "ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }"
         },
-   {"key":"Taohuazu","name":"SP┃桃花族","type":3,"api":"csp_Taohuazu","playerType":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/zyang0422/bd/main/pg.jar"},
+   {"key":"Taohuazu","name":"SP┃桃花族","type":3,"api":"csp_Taohuazu","playerType":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/zyang0422/bd/main/pg.jar"},
    {"key":"Netflav","name":"SP┃奈非","type":3,"api":"csp_Netflav","playerType":1,"quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/zyang0422/bd/main/pg.jar"},
    
-   {
-      "key": "csp_xBPQ_新香蕉中文字幕",
-      "name": "新香蕉中文字幕",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar",
-      "ext": "https://agit.ai/weigs/w/raw/branch/master/666/新香蕉中文字幕.json"
-    },
+
     {
       "key": "(18+)环亚资源",
       "name": "(18+)环亚资源",
