@@ -10,7 +10,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "sites": [
+ "sites": [
     {
       "key": "XMVideo",
       "name": "\uD83D\uDD1E 熊猫视频 | 珍惜",
@@ -19,7 +19,6 @@
       "searchable": 1,
       "filterable": 1
     },
-  
     {
       "key": "J91",
       "name": "\uD83D\uDD1E 91 | 珍惜",
@@ -33,14 +32,6 @@
       "name": "\uD83D\uDD1E 51吃瓜 | 图密√",
       "type": 3,
       "api": "csp_Cg51",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "XVideos",
-      "name": "\uD83D\uDD1E XVideos | 珍惜",
-      "type": 3,
-      "api": "csp_XVideos",
       "searchable": 1,
       "filterable": 1
     },
@@ -65,14 +56,6 @@
       "name": "\uD83D\uDD1E 嗨片直播 | 视频",
       "type": 3,
       "api": "csp_HiPianZhiBo",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "JJAiPian",
-      "name": "\uD83D\uDD1E 久久爱片 | 视频",
-      "type": 3,
-      "api": "csp_JJAiPian",
       "searchable": 1,
       "filterable": 1
     },
