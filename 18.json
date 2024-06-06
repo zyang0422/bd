@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.net//raw.githubusercontent.com/bizhangjie/CatVodSpider/main/jar/custom_spider.jar;md5;78e82d522b2b8e9aba917b28074f1062",
+  "spider": "https://raw.kkgithub.com/bizhangjie/CatVodSpider/main/jar/custom_spider.jar",
   "lives": [
     {
       "name": "直播ipv6",
