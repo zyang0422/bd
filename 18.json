@@ -965,6 +965,245 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+
+  "key": "*香奶儿资源111",
+      "name": "官方┃ix19.top",
+      "type": 0,
+      "api": "https://api.sexnguon.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+     "key": "*香奶儿资源",
+      "name": "香蕉┃香奶儿",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "量子22",
+      "name": "香蕉A┃资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "categories": [
+        "内地剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "韩剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "日剧",
+        "马泰剧",
+        "体育赛事",
+        "综艺",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫",
+        "伦理片"
+      ]
+    },
+    {
+     
+     
+
+
+          "key": "香蕉",
+      "name": "香蕉┃秒播",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+           "jar": "http://cdn.qiaoji8.com/fix240620.jar;md5;2e3f4dbde933d61722e64ee807500398",
+      "ext": "https://api.cnmcom.com/webcloud/relay.php?url="
+    },
+    {
+
+                    "key": "香蕉2",
+      "name": "香蕉┃高清",
+      "type": 3,
+      "jar": "http://cdn.qiaoji8.com/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73",
+      "api": "csp_KanKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+
+
+    "key": "火狐",
+      "name": "香蕉┃伦理1",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+
+
+    "key": "量子",
+      "name": "香蕉┃伦理",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+
+
+      "key": "麻豆",
+      "name": "香蕉┃麻豆视频",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+
+      "key": "155",
+      "name": "香蕉┃155视频",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/",
+  "playUrl": "https://www.155jx.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+
+     "key": "森林",
+      "name": "香蕉┃森林视频",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://sljxsl.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+
+
+	"key": "爱情资源",
+			"name": "香蕉┃爱情世界",
+			"type": 1,
+			"api": "http://www.ix666.top/api.php/provide/vod/?ac=list",
+			"searchable": 0,
+			"quickSearch": 0
+		},
+		{
+    
+      "key": "*大地资源",
+      "name": "香蕉┃大地资源",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php",
+  "playUrl": "http://103.101.204.20:7777/zjdr/?url=",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "美少女",
+      "name": "香蕉┃美少女",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      
+      "key": "*白嫖资源",
+      "name": "香蕉┃白嫖资源",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+
+      "key": "*淫水机资源",
+      "name": "香蕉┃淫水机",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "*小湿妹资源",
+      "name": "香蕉┃小湿妹",
+      "type": 0,
+      "api": "https://www.afasu.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+ 
+          "key": "黄AV资源",
+      "name": "香蕉┃黄AV资源",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+
+      "key": "大地专场",
+      "name": "香蕉┃大地视频",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "日韩无码",
+        "强奸乱伦",
+        "欧美精品",
+        "国产精品",
+        "人妻系列",
+        "中文字幕",
+        "动漫精品",
+        "伦理影片",
+        "日韩精品",
+        "制服诱惑",
+        "自拍偷拍",
+        "AV明星",
+        "3P合辑",
+        "巨乳系列",
+        "颜射系列",
+        "口交视频",
+        "自慰系列",
+        "SM重味",
+        "教师学生",
+        "大秀视频",
+        "AV明星1"
+      ]
     }
   ],
   "parses": [
