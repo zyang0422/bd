@@ -11,7 +11,7 @@
     }
   ],
   "sites": [
-    {
+    //{
       "key": "XMVideo",
       "name": "\uD83D\uDD1E 熊猫视频 | 珍惜",
       "type": 3,
@@ -19,7 +19,7 @@
       "searchable": 1,
       "filterable": 1
     },
-    {
+    //{
       "key": "J91",
       "name": "\uD83D\uDD1E 91 | 珍惜",
       "type": 3,
