@@ -11,8 +11,7 @@
     }
   ],
   "sites": [
-
-    {
+      {
       "key": "Cg51",
       "name": "\uD83D\uDD1E 51吃瓜 | 图密√",
       "type": 3,
@@ -20,6 +19,15 @@
       "searchable": 1,
       "filterable": 1
     },
+    {
+      "key": "J91",
+      "name": "\uD83D\uDD1E 91 | 珍惜",
+      "type": 3,
+      "api": "csp_J91",
+      "searchable": 1,
+      "filterable": 1
+    },
+
     {
       "key": "MiMei",
       "name": "\uD83D\uDD1E 迷妹 | 珍惜",
