@@ -11,8 +11,10 @@
     }
   ],
   "sites": [
-    {"key":"浴火社","name":"SP┃浴火社","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zyang0422/Py/refs/heads/main/plugin/adult/%E6%B5%B4%E7%81%AB%E7%A4%BEAPP.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
-    {"key":"香蕉APP","name":"SP┃香蕉","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zyang0422/Py/refs/heads/main/plugin/adult/%E9%A6%99%E8%95%89APP.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+    {"key":"51吸瓜","name":"\uD83D\uDD1E 91 |51吸瓜","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zyang0422/Py/refs/heads/main/plugin/adult/51%E5%90%B8%E7%93%9C.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+    {"key":"Phb","name":"\uD83D\uDD1E 91 |Phb","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zyang0422/Py/refs/heads/main/plugin/adult/Phb.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+    {"key":"香蕉APP","name":"\uD83D\uDD1E 91 |香蕉","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zyang0422/Py/refs/heads/main/plugin/adult/%E9%A6%99%E8%95%89APP.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+    {"key":"Xvd","name":"\uD83D\uDD1E 91 |Xvd","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zyang0422/Py/refs/heads/main/plugin/adult/Xvd.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
     {
       "key": "J91",
       "name": "\uD83D\uDD1E 91 | 珍惜",
