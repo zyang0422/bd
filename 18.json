@@ -11,7 +11,6 @@
     }
   ],
   "sites": [
-    {"key":"51吸瓜","name":"\uD83D\uDD1E 91 |51吸瓜","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zyang0422/Py/refs/heads/main/plugin/adult/51%E5%90%B8%E7%93%9C.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
    
     {"key":"香蕉APP","name":"\uD83D\uDD1E 91 |香蕉","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zyang0422/Py/refs/heads/main/plugin/adult/%E9%A6%99%E8%95%89APP.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
     {
