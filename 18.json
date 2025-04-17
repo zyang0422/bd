@@ -29,6 +29,8 @@
       "searchable": 1,
       "filterable": 1
     },
+
+  {"key": "色猫资源","name": "\uD83D\uDD1E 色猫资源","type": 1,"api": "https://caiji.semaozy.net/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "MiMei",
       "name": "\uD83D\uDD1E 迷妹 | 珍惜",
