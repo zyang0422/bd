@@ -11,7 +11,34 @@
     }
   ],
   "sites": [
-   
+
+    {
+            "key": "sd_jjpy",
+            "name": "💃美女┃姐姐",
+            "type": 3,
+            "api": "http://yimolan666.serv00.net/18/py/小姐姐.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "sd_crks",
+            "name": "👏成人┃快手",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "http://yimolan666.serv00.net/18/py/成人快手.py"
+        },
+        {
+            "key": "sd_zbjh",
+            "name": "🎨色播┃聚合",
+            "type": 3,
+            "api": "http://yimolan666.serv00.net/18/py/色播聚合.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },  
     {"key":"香蕉APP","name":"\uD83D\uDD1E 91 |香蕉","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zyang0422/Py/refs/heads/main/plugin/adult/%E9%A6%99%E8%95%89APP.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
     {
       "key": "J91",
