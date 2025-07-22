@@ -22,6 +22,33 @@
       "searchable": 1,
       "filterable": 1
     },
+	  {
+            "key": "sd_jjpy",
+            "name": "💃美女┃姐姐",
+            "type": 3,
+            "api": "http://yimolan666.serv00.net/18/py/小姐姐.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "sd_crks",
+            "name": "👏成人┃快手",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "http://yimolan666.serv00.net/18/py/成人快手.py"
+        },
+        {
+            "key": "sd_zbjh",
+            "name": "🎨色播┃聚合",
+            "type": 3,
+            "api": "http://yimolan666.serv00.net/18/py/色播聚合.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
    {
       "key": "Cg51",
       "name": "\uD83D\uDD1E 51吃瓜 | 图密√",
