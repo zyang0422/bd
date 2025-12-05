@@ -24,9 +24,11 @@
 
 {"key":"玩具社区","name":"\uD83D\uDD1E玩具社区","type":3,"api":"https://gh-proxy.net/https://raw.githubusercontent.com/zyang0422/bd/refs/heads/main/PY/%E7%8E%A9%E5%85%B7%E7%A4%BE%E5%8C%BA.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
 
-{"key":"91","name":"\uD83D\uDD1E 91","type":3,"api":"https://gh-proxy.net/https://raw.githubusercontent.com/zyang0422/bd/refs/heads/main/PY/91.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+{"key":"18","name":"\uD83D\uDD1E 18","type":3,"api":"https://gh-proxy.net/https://raw.githubusercontent.com/zyang0422/bd/refs/heads/main/PY/18.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
 
 {"key":"菠萝七区","name":"\uD83D\uDD1E 菠萝七区","type":3,"api":"https://gh-proxy.net/https://raw.githubusercontent.com/zyang0422/bd/refs/heads/main/PY/%E8%8F%A0%E8%90%9D%E4%B8%83%E5%8C%BA.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},	  
+
+{"key":"javdb","name":"\uD83D\uDD1E javdb","type":3,"api":"https://gh-proxy.net/https://raw.githubusercontent.com/zyang0422/bd/refs/heads/main/PY/javdb.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},	  
 	  {
       "key": "HiPianZhiBo",
       "name": "\uD83D\uDD1E 嗨片直播 | 视频",
