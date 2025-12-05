@@ -15,7 +15,7 @@ class Spider(Spider):
     def destroy(self):
         pass
 
-    host='https://91-short.com'
+    host='https://91 -short.com'
 
     headers = {
         'accept': 'application/json, text/plain, */*',
@@ -108,3 +108,4 @@ class Spider(Spider):
         cipher = AES.new(key, AES.MODE_ECB)
         decrypted = cipher.decrypt(res.content)
         return [200,res.headers.get('Content-Type'),decrypted]
+
