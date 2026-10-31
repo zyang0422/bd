@@ -1,5 +1,5 @@
 央视,#genre#
-CCTV-1综合,https://www.qiushui.vip/gj/mgid.php?mgid=1
+CCTV-1综合,https://www.qiushui.vip/gj/mgid.php?mgid=608807420
 CCTV-2财经,https://www.qiushui.vip/gj/mgid.php?mgid=2
 CCTV-3综艺,https://www.qiushui.vip/gj/mgid.php?mgid=3
 CCTV-4中文国际,https://www.qiushui.vip/gj/mgid.php?mgid=4
