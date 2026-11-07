@@ -82,7 +82,7 @@ CCTV4美洲,webview://https://tv.cctv.com/live/cctvamerica/
 CCTV4K,webview://https://yangshipin.cn/tv/home?pid=600002264
 东方卫视4K,webview://https://live.kankanews.com/huikan?id=1
 深圳卫视4K,webview://https://www.sztv.com.cn/dianshi.shtml?id=24725
-江苏卫视4K,webview://https://live.jstv.com/?tag=江苏卫视4K超高清
+江苏卫视4K,https://litchi-play-encrypted-site.jstv.com/applive/jsws4kpro.m3u8?txSecret=b1be9dc12787c6df3d7899982206cdde&txTime=7dbadf9c
 苏州4K,webview://https://tv.utao.tv/tv-web/live.html?url=https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 
 
