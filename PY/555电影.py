@@ -53,7 +53,7 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 
 # 诊断模式：多一个「诊断」分类，直接显示首页请求的状态码/条数/耗时。
 # 排查阶段保持 True；确认能用了改成 False，这个分类就消失。
-DIAG = True
+DIAG = False
 
 # 只开放这五个非成人分类
 CLASS_LIST = [
@@ -186,6 +186,17 @@ class Spider(BaseSpider):
 
     # ---------------- 通用解析 ----------------
 
+    def _pic(self, url):
+        """海报归一化：站内图是 /upload/... 相对路径，壳子拼不出域名就只能显示片名首字"""
+        u = htmllib.unescape((url or "").strip())
+        if not u:
+            return ""
+        if u.startswith("//"):
+            return "https:" + u
+        if u.startswith("/"):
+            return self.siteUrl + u
+        return u
+
     def _bad(self, text):
         t = (text or "")
         return any(w in t for w in ADULT_WORDS)
@@ -214,7 +225,7 @@ class Spider(BaseSpider):
             out.append({
                 "vod_id": vid,
                 "vod_name": name,
-                "vod_pic": htmllib.unescape(pic.group(1)) if pic else "",
+                "vod_pic": self._pic(pic.group(1)) if pic else "",
                 "vod_remarks": note.group(1).strip() if note else "",
                 "vod_play_from": "",
                 "vod_play_url": "",
@@ -435,7 +446,7 @@ class Spider(BaseSpider):
             vod = {
                 "vod_id": vid,
                 "vod_name": name,
-                "vod_pic": htmllib.unescape(pic.group(1)) if pic else "",
+                "vod_pic": self._pic(pic.group(1)) if pic else "",
                 "vod_remarks": "",
                 "vod_year": year,
                 "vod_area": area,
@@ -555,4 +566,3 @@ def _self_test():
 
 if __name__ == "__main__":
     _self_test()
-#（注：内容由AI生成）
